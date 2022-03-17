@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.327dc58baf667d72f14332f8888b28ef.js"
+  "/precache-manifest.98eb15f67d3ea74792df0033f7d258e3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wherehaveibeen"});
